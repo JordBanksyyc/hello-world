@@ -1,7 +1,6 @@
 # hello-world
-Just another repository.
 
-Hello everyone,
+Hello Everybody,
 
-I am a Cross-Dressing beauty from Calgary.
-And I love to go out dancing!
+I am a Cross-Dressing beauty out of Calgary, AB.
+I love to go to Twisted Element to dance the night away.
